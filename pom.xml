@@ -58,14 +58,14 @@
     <repositories>
         <repository>
             <id>myMavenRepo.read</id>
-            <url>https://mvnrepository.com/artifact/org.apache.maven.plugins</url>
+            <url>https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-deploy-plugin</url>
         </repository>
     </repositories>
 
     <distributionManagement>
         <repository>
             <id>myMavenRepo.write</id>
-            <url>https://mvnrepository.com/artifact/org.apache.maven.plugins</url>
+            <url>https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-deploy-plugin</url>
         </repository>
     </distributionManagement>
 
